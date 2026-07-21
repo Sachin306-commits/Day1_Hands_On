@@ -1,0 +1,12 @@
+{
+  "name": "day1-hands-on-e2e",
+  "private": true,
+  "scripts": {
+    "test:e2e": "playwright test",
+    "test:e2e:headed": "playwright test --headed"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^26.1.1"
+  }
+}
