@@ -1,8 +1,8 @@
 node_modules/
-# Playwright generated artifacts
 playwright-report/
 test-results/
 blob-report/
+storageState.json
 
 # Coverage and build output
 coverage/
